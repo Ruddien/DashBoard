@@ -44,11 +44,11 @@ const Handler = new DBD.Handler(
             colorScheme: "pink",
             supporteMail: "support@support.com",
             icons: {
-                favicon: 'https://assistantscenter.com/wp-content/uploads/2021/11/cropped-cropped-logov6.png',
+                favicon: 'https://i.ibb.co/G5qCT7s/333d676024ad597164b6c7a78dad42ed.webp',
                 noGuildIcon: "https://pnggrid.com/wp-content/uploads/2021/05/Discord-Logo-Circle-1024x1024.png",
                 sidebar: {
-                    darkUrl: 'https://assistantscenter.com/img/logo.png',
-                    lightUrl: 'https://assistanscenter.com/img/logo.png',
+                    darkUrl: 'https://i.ibb.co/G5qCT7s/333d676024ad597164b6c7a78dad42ed.webp',
+                    lightUrl: 'https://i.ibb.co/G5qCT7s/333d676024ad597164b6c7a78dad42ed.webp',
                     hideName: true,
                     borderRadius: false,
                     alignCenter: true
