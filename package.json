@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "dbd-dark-dashboard": "^1.6.62",
+    "dbd-soft-ui": "^1.7.18-beta.1",
+    "discord-dashboard": "^2.3.62",
+    "discord.js": "^14.13.0"
+  }
+}
